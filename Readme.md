@@ -1,4 +1,4 @@
-# Notes API 
+# Notes API Project
 
 ## Project Overview
 
