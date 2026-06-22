@@ -1,4 +1,4 @@
-# Notes API - Cloud DevOps Assignment
+# Notes API 
 
 ## Project Overview
 
