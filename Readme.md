@@ -398,6 +398,6 @@ The Screenshots folder contains:
 ---
 
 ## Author
-Dnyanhvi Kale
-Cloud Engineer
+Dnyanhvi Kale <br>
+Cloud Engineer <br>
 AWS Certified Solutions Architect – Associate
