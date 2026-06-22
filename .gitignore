@@ -5,3 +5,9 @@ Screenshots/
 npm-debug.log*
 server.*.log
 Server
+.terraform/
+terraform/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+server
